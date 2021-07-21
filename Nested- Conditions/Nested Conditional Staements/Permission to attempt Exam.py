@@ -7,7 +7,7 @@
 #Output
 
 #If the student has greater than or equal to 75% of attendance, print "Allowed to write exam".
-3If the student has less than 75% of attendance and has a medical reason is equal to "Y", print "Allowed to write exam".
+#If the student has less than 75% of attendance and has a medical reason is equal to "Y", print "Allowed to write exam".
 #If the student has attendance less than 75% with no medical reason is equal to "N", print "Cannot write exam".
 #Explanation
 
